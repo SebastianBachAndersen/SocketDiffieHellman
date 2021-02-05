@@ -1,0 +1,7 @@
+C:\Users\Sebastian Andersen\source\repos\SocketsClient\SocketsClient\bin\Debug\SocketsClient.exe.config
+C:\Users\Sebastian Andersen\source\repos\SocketsClient\SocketsClient\bin\Debug\SocketsClient.exe
+C:\Users\Sebastian Andersen\source\repos\SocketsClient\SocketsClient\bin\Debug\SocketsClient.pdb
+C:\Users\Sebastian Andersen\source\repos\SocketsClient\SocketsClient\obj\Debug\SocketsClient.csprojAssemblyReference.cache
+C:\Users\Sebastian Andersen\source\repos\SocketsClient\SocketsClient\obj\Debug\SocketsClient.csproj.CoreCompileInputs.cache
+C:\Users\Sebastian Andersen\source\repos\SocketsClient\SocketsClient\obj\Debug\SocketsClient.exe
+C:\Users\Sebastian Andersen\source\repos\SocketsClient\SocketsClient\obj\Debug\SocketsClient.pdb

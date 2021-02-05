@@ -1,0 +1,7 @@
+C:\Users\Sebastian Andersen\source\repos\SocketsServer\SocketsServer\bin\Debug\SocketsServer.exe.config
+C:\Users\Sebastian Andersen\source\repos\SocketsServer\SocketsServer\bin\Debug\SocketsServer.exe
+C:\Users\Sebastian Andersen\source\repos\SocketsServer\SocketsServer\bin\Debug\SocketsServer.pdb
+C:\Users\Sebastian Andersen\source\repos\SocketsServer\SocketsServer\obj\Debug\SocketsServer.csprojAssemblyReference.cache
+C:\Users\Sebastian Andersen\source\repos\SocketsServer\SocketsServer\obj\Debug\SocketsServer.csproj.CoreCompileInputs.cache
+C:\Users\Sebastian Andersen\source\repos\SocketsServer\SocketsServer\obj\Debug\SocketsServer.exe
+C:\Users\Sebastian Andersen\source\repos\SocketsServer\SocketsServer\obj\Debug\SocketsServer.pdb
